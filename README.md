@@ -1,1 +1,1 @@
-# first game I created
+# first game I created on python
